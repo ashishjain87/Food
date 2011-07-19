@@ -1,0 +1,198 @@
+Sabji
+	[ ][B] Matar Paneer
+	[ ][B] Palak Paneer
+	[ ][C] Kaddu
+	[ ][C] Loki
+	[-][C] Shahi Paneer
+	[-][C] Arbi
+	[-][C] Mix Vegetable
+	[X][A] Alo Matar
+	[X][A] Alu Beans
+	[X][A] Alu Gobi
+	[X][B] Bhindi
+Dal
+	[ ][A] Bada Lobia
+	[ ][A] Kadhi
+	[ ][B] Chole
+	[ ][B] Chotha Lobia
+	[ ][C] Kale Chane
+	[ ][C] Rajma
+	[-][C] Gatte
+	[-][C] Makhani
+	[X][A] Arahar
+	[X][A] Kali Masoor
+	[X][A] Kali Urad
+	[X][A] Lal Masoor
+	[X][B] Chilka Moong
+	[X][B] Moong
+	[X][B] Urad
+Roti
+	[ ][A] Plain
+	[ ][B] Parantha
+		[ ][B] Satoo
+		[-][C] Matar
+		[X][B] Alo
+		[X][B] Gobi
+			: Add salt and other spices at the very end because Gobi paani
+			: chodtha hai
+		[X][B] Paneer
+		[X][C] Mooli
+		[X][C] Pyaaz
+	[-][C] Missi
+	[-][D] Naan
+Rice
+	[ ][B] Jeera
+	[-][A] Curd
+	[-][B] Pulao
+	[-][C] Biryani
+	[-][C] Lemon
+	[X][A] Namkeen
+	[X][A] Plain
+Snack
+	[ ][A] Sandwiches
+		[X][B] Aloo
+			: Masala is same as Aloo Parantha
+		[ ][B] Pyaaz Tamatar
+			: Pyaaz, Tamatar, Adrak, Hari Mirch
+		[X][B] Kheera
+	[ ][B] Daliya
+	[ ][B] Mur Mure
+	[ ][B] Sprouted Moong
+	[ ][B] Upma
+	[ ][C] Cheela
+		[ ][C] Besan
+		[-][D] Moong
+	[ ][C] Poha
+	[-][B] Bread Pizza
+	[-][C] Chothi Idli
+	[-][C] Dokhla
+	[-][C] Pao Bhaji
+	[-][C] Samosa
+	[-][C] Sooji Idli
+	[-][D] Bonda
+	[-][D] Chaat
+		[-][D] Papdi
+		[-][D] Alo
+	[-][D] Chilli Potato
+	[-][D] Dahi Vada
+	[-][D] Litti
+	[-][D] Mathri
+	[-][D] Momos
+	[-][D] Pakode
+		[-][D] Moong Dal
+		[-][D] Alo
+		[-][D] Pyaaz
+		[-][D] Mirch
+		[-][D] Palak
+		[-][D] Gobi
+		[-][D] Paneer
+		[-][D] Bread
+	[-][D] Tikki
+	[X][A] Cereals
+		[X] Muesli
+	[X][A] Oat Bran
+Continental
+	[X][A] Pasta
+		[X][A] Pesto
+		[X][A] Napolitana
+	[-][D] Baked Vegetables
+	[-][D] Pizza
+	[-][D] Stuffed Cabbage Leaves with Baked Beans
+Chinese
+	[-][A] Noodles
+	[-][C] Fried Rice
+	[-][D] Manchurian
+Special Dishes
+	[ ][C] Kulche Chole
+	[-][D] Alo Kachori
+	[-][D] Batata Bada
+	[-][D] Chole Puri
+	[-][D] Dal Bati
+	[-][D] Radga Patti
+South Indian
+	[-][C] Idli Sambar
+	[-][D] Dosa
+	[-][D] Uttapam
+	[-][D] Vada Sambar
+Drinks
+	[X][C] Badam Milk
+		: Add Badam (20) chothi elaichi and sugar.
+		: Mix them and grind them in mixer 
+		: Mix milk and that's all.
+	[-][C] Juices
+		[-][C] Watermelon
+		[-][C] Apple
+		[-][C] Orange
+	[-][D] Thandai
+	[X][A] Lassi
+		[X][A] Namkeen
+			: Add salt and bhuna jeera to taste. And churn with water.
+		[X][A] Sweet
+			: Add sugar to taste and churn with water.
+	[X][A] Nimbu Pani
+	[X][A] Shakes
+		[X][A] Mango
+		[X][A] Chikku
+		[X][A] Custard Apple
+		[X][A] Papaya
+		[X][A] Banana
+		[X][A] Apple
+		[X][A] Dry Fruit
+		[X][A] Chocolate
+Sweet Dishes
+	[ ][C] Custard
+	[-][C] Cakes
+		[-][C] Chocolate
+		[-][C] Biscuit
+	[-][C] Halwa
+		[-][C] Gajar
+		[-][C] Sooji
+		[-][D] Moong
+	[-][C] Kheer
+		[-][C] Rice
+		[-][C] Sevaiyin
+		[-][C] Saboo Dana
+	[-][C] Rabri
+	[-][D] Bread Pudding
+	[-][D] Caramel Custard
+	[-][D] Dracula Delight
+	[-][D] Gujjiyan
+	[-][D] Gulab Jamun
+	[-][D] Ice Creams
+	[-][D] Jelly
+	[-][D] Kulfi
+	[-][D] Laddu
+		[-][D] Besan
+		[-][D] Atta
+	[-][D] Panjiri
+	[-][D] Pooe
+Salads
+	[X][A] Pasta
+	[-][D] Dressings
+		[-][B] French
+		[-][B] Russian
+		[-][C] Mayonnaise
+Side Dishes
+	[X][A] Raita
+		[X][A] Kheere
+		[X][A] Pyaaz
+			: 1) Bareek pyaaz kato
+			: 2) Mix it in churned curd
+			: 3) Add Namak, Mirch and Bhuna Jeera
+		[-][B] Fruits
+		[-][B] Pineapple
+		[X][C] Loki
+		[-][C] Mixed Vegetable
+		[-][C] Tamatar
+		[-][D] Boondi
+		[-][D] Pakodi
+	[-][D] Khakhre
+	[X][A] Papad
+		[X][C] Besan
+		[X][C] Moong Dal
+		[X][C] Urad Dal
+	[ ] Chatni
+		[ ] Hara Dhaniya
+			: Hara daniya, hari mirch, amchoor, salt, bhuna jeera
+			: Grind everything with small amount of water
+		[ ] Pudina
